@@ -2,7 +2,7 @@
 
 A single-page portfolio site built from my resume, designed to be linked from LinkedIn as a live "Featured" project.
 
-**Live site:** _add your GitHub Pages link here once enabled, e.g._ `https://dibyalochan.github.io/portfolio/`
+
 
 ## About
 
